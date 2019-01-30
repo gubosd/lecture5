@@ -3,4 +3,4 @@
 - 기간 : 2019.1.28 - 3.29
 - 장소 : 서울코딩학원
 <br><br>
-<span style="background-color:green">Hello</span>
+<span style="color:green">Hello, python!</span>
